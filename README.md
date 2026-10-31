@@ -1,4 +1,4 @@
-# 🕷️ Yugant — Developer & Spider-Man in Code City
+#  Yugant
 
 <div align="center">
 
