@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./spiderman-coding.gif" width="700" alt="Spider-Man coding animation" />
+<img src="./spiderman-coding.gif" width="800" alt="Spider-Man coding animation" />
 
 ### Exploring AI, engineering the future.
 
